@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.NOT_FOUND_ROUTE = exports.UNAUTHORIZED = exports.NOT_FOUND = exports.FORBIDDEN = exports.CONFLICT = exports.BAD_REQUEST = exports.INTERNAL_SERVER_ERROR = void 0;
+exports.INTERNAL_SERVER_ERROR = "Internal server error";
+exports.BAD_REQUEST = "Bad request";
+exports.CONFLICT = "Conflict error";
+exports.FORBIDDEN = "Forbidden access";
+exports.NOT_FOUND = "Resource not found";
+exports.UNAUTHORIZED = "Unauthorized access";
+exports.NOT_FOUND_ROUTE = "Route not found";

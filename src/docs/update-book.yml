@@ -1,0 +1,70 @@
+paths:
+  /books/{id}:
+   put:
+      summary: Update a book
+      tags:
+        - Book
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                title:
+                  type: string
+                  maxLength: 255
+                description:
+                  type: string
+                  maxLength: 500
+                publisher:
+                  type: string
+                  maxLength: 255
+                publishedDate:
+                  type: string
+                  format: date
+                isbn:
+                  type: string
+                  maxLength: 255
+                author:
+                  type: string
+                  maxLength: 255
+                language:
+                  type: string
+                  maxLength: 50
+                pageCount:
+                  type: integer
+                genreIds:
+                  type: array
+                  items:
+                    type: integer
+      responses:
+        200:
+          description: Book updated successfully\
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: number
+                    example: 200
+                  message:
+                    type: string
+                    example: OK
+                  data:
+                    type: array
+                    items:
+                      id: 
+                        type : number
+                        example : 1
+        400:
+          description: Bad request
+        404:
+          description: Not found

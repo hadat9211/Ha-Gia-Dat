@@ -1,0 +1,23 @@
+paths:
+  /books/{id}:
+    get:
+      summary: Get a book by ID
+      tags:
+        - Book
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+      responses:
+        200:
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Book'
+        400:
+          description: Bad request
+        404:
+          description: Not found

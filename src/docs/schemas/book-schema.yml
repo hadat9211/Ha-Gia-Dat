@@ -1,0 +1,51 @@
+components:
+  schemas:
+    Book:
+      type: object
+      required:
+        - id
+        - title
+        - isbn
+        - author
+        - language
+        - pageCount
+      properties:
+        id:
+          type: integer
+          example: 10091
+        title:
+          type: string
+          example: 'The Great Gatsby'
+        description:
+          type: string
+          example: 'A novel written by F. Scott Fitzgerald.'
+        publisher:
+          type: string
+          example: 'Scribner'
+        publishedDate:
+          type: string
+          format: date
+          example: '1925-04-10'
+        isbn:
+          type: string
+          example: '9780743273565'
+        author:
+          type: string
+          example: 'F. Scott Fitzgerald'
+        language:
+          type: string
+          example: 'English'
+        pageCount:
+          type: integer
+          example: 180
+        genres:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: integer
+                example: 1
+              name:
+                type: string
+                example: 'Classic Literature'

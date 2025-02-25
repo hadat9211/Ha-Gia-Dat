@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "nodemon": "^3.1.9",
+    "reflect-metadata": "^0.2.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "typeorm": "^0.3.20",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "@types/express": "^5.0.0",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.8",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "@faker-js/faker": "^9.5.0"
+  },
+  "scripts": {
+    "start": "node dist/main.js",
+    "start:dev": "nodemon",
+    "build": "tsc",
+    "migration:run": "typeorm-ts-node-commonjs -d ./src/infrastructure/datasource/datasource.ts migration:run",
+    "migration:revert": "typeorm-ts-node-commonjs -d ./src/infrastructure/datasource/datasource.ts migration:revert",
+    "migration:create": "typeorm-ts-node-commonjs migration:generate ./src/infrastructure/migrations/migrations -d ./src/infrastructure/datasource/datasource.ts",
+    "seed": "ts-node src/seed/seeder.ts"
+  }
+}

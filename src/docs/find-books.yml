@@ -1,0 +1,81 @@
+paths:
+  /books:
+    get:
+      summary: Find all books
+      tags:
+        - Book
+      parameters:
+        - in: query
+          name: genreIds
+          schema:
+            type: array
+            items:
+              type: integer
+          required: false
+          description: List of genre IDs to filter books
+        - in: query
+          name: title
+          schema:
+            type: string
+          required: false
+          description: Book title
+        - in: query
+          name: author
+          schema:
+            type: string
+          required: false
+          description: Author of the book
+        - in: query
+          name: publishedDateFrom
+          schema:
+            type: string
+            format: date
+          required: false
+          description: Filter books published from this date
+        - in: query
+          name: publishedDateTo
+          schema:
+            type: string
+            format: date
+          required: false
+          description: Filter books published until this date
+        - in: query
+          name: language
+          schema:
+            type: string
+          required: false
+          description: Language of the book
+        - in: query
+          name: lastId
+          schema:
+            type: integer
+          required: false
+          description: Last book ID from the previous page for pagination
+        - in: query
+          name: limit
+          schema:
+            type: integer
+          required: false
+          description: Number of books to fetch per page
+      responses:
+        200:
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  code:
+                    type: number
+                    example: 200
+                  message:
+                    type: string
+                    example: OK
+                  data:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Book'
+        400:
+          description: Bad request
+        404:
+          description: Not found

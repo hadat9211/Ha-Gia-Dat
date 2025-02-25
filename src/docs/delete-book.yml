@@ -1,0 +1,19 @@
+paths:
+  /books/{id}:
+    delete:
+      summary: Delete a book
+      tags:
+        - Book
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+      responses:
+        204:
+          description: Book deleted successfully
+        400:
+          description: Bad request
+        404:
+          description: Not found

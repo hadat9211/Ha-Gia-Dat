@@ -1,0 +1,69 @@
+2025-02-24 21:50:18 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 21:55:14 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 21:56:11 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 22:26:50 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 22:41:35 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:18:00 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:19:11 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:19:43 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:20:27 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-25 10:25:01 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:34:10 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:34:12 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:38:37 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:54:37 [[31MERROR[39M]: Bad request
+2025-02-25 10:54:39 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:06 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:07 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:10 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:43 [[31MERROR[39M]: Bad request
+2025-02-25 10:56:05 [[31MERROR[39M]: Bad request
+2025-02-25 10:56:59 [[31MERROR[39M]: Bad request
+2025-02-25 11:01:38 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:02:55 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:02:56 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:07:33 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:11:19 [[31MERROR[39M]: Unknown column 'genre' in 'field list'
+2025-02-25 11:42:38 [[31MERROR[39M]: Bad request
+2025-02-25 11:42:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:05 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:41 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:55 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:57 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:09 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:11 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:29 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:30 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:57 [[31MERROR[39M]: Bad request
+2025-02-25 11:45:44 [[31MERROR[39M]: Bad request
+2025-02-25 11:47:47 [[31MERROR[39M]: Bad request
+2025-02-25 11:47:50 [[31MERROR[39M]: Bad request
+2025-02-25 11:47:51 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:08 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:37 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:38 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:49:06 [[31MERROR[39M]: Resource not found
+2025-02-25 11:49:08 [[31MERROR[39M]: Resource not found
+2025-02-25 11:50:41 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:42 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:43 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:43 [[31MERROR[39M]: Bad request
+2025-02-25 11:52:42 [[31MERROR[39M]: Bad request
+2025-02-25 11:53:51 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:00 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:01 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:08 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:18 [[31MERROR[39M]: Bad request
+2025-02-25 15:40:28 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:27 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:31 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:31 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:34 [[31MERROR[39M]: Bad request
+2025-02-25 15:48:39 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:49:41 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:51:32 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:53:08 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:56:40 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 16:00:21 [[31MERROR[39M]: Unknown column 'genre.id' in 'where clause'

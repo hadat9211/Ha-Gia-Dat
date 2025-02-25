@@ -1,0 +1,431 @@
+2025-02-24 21:50:18 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 21:50:18 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 21:55:14 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 21:55:14 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 21:56:11 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 21:56:11 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 22:26:50 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 22:26:50 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 22:41:35 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 22:41:35 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:18:00 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 23:18:00 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:19:11 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 23:19:11 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:19:43 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 23:19:43 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-24 23:20:27 [[32MINFO[39M]: Server running on http://localhost:3002
+2025-02-24 23:20:27 [[31MERROR[39M]: {"code":"ECONNREFUSED","fatal":true}
+2025-02-25 10:17:43 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:17:44 [[32MINFO[39M]: Database connected
+2025-02-25 10:18:35 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:18:35 [[32MINFO[39M]: Database connected
+2025-02-25 10:19:23 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:19:23 [[32MINFO[39M]: Database connected
+2025-02-25 10:20:16 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:20:16 [[32MINFO[39M]: Database connected
+2025-02-25 10:24:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:24:53 [[32MINFO[39M]: Database connected
+2025-02-25 10:25:01 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:33:50 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:33:50 [[32MINFO[39M]: Database connected
+2025-02-25 10:34:10 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:34:12 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:37:16 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:37:16 [[32MINFO[39M]: Database connected
+2025-02-25 10:38:11 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:38:12 [[32MINFO[39M]: Database connected
+2025-02-25 10:38:37 [[31MERROR[39M]: Table 'crud-demo.tt_Book' doesn't exist
+2025-02-25 10:39:20 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:39:20 [[32MINFO[39M]: Database connected
+2025-02-25 10:39:35 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:39:38 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:39:38 [[32MINFO[39M]: Database connected
+2025-02-25 10:39:41 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:42:33 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:42:34 [[32MINFO[39M]: Database connected
+2025-02-25 10:44:59 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:44:59 [[32MINFO[39M]: Database connected
+2025-02-25 10:45:22 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:24 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:25 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:25 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:26 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:26 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:26 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 10:45:28 [[32MINFO[39M]: [API Request] GET /api/books/2 | Body: {"id":2} | Query: {} | Params: {"id":2}
+2025-02-25 10:45:29 [[32MINFO[39M]: [API Request] GET /api/books/2 | Body: {"id":2} | Query: {} | Params: {"id":2}
+2025-02-25 10:45:29 [[32MINFO[39M]: [API Request] GET /api/books/2 | Body: {"id":2} | Query: {} | Params: {"id":2}
+2025-02-25 10:45:29 [[32MINFO[39M]: [API Request] GET /api/books/2 | Body: {"id":2} | Query: {} | Params: {"id":2}
+2025-02-25 10:45:31 [[32MINFO[39M]: [API Request] GET /api/books/3 | Body: {"id":3} | Query: {} | Params: {"id":3}
+2025-02-25 10:45:31 [[32MINFO[39M]: [API Request] GET /api/books/3 | Body: {"id":3} | Query: {} | Params: {"id":3}
+2025-02-25 10:45:33 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:45:33 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:46:27 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:46:27 [[32MINFO[39M]: Database connected
+2025-02-25 10:46:28 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:46:50 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:46:50 [[32MINFO[39M]: Database connected
+2025-02-25 10:46:58 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:46:58 [[32MINFO[39M]: Database connected
+2025-02-25 10:47:04 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:47:05 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:47:05 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:47:06 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:47:26 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:47:26 [[32MINFO[39M]: Database connected
+2025-02-25 10:47:27 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:47:29 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:48:30 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:48:30 [[32MINFO[39M]: Database connected
+2025-02-25 10:48:31 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:48:47 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:48:47 [[32MINFO[39M]: Database connected
+2025-02-25 10:50:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:50:04 [[32MINFO[39M]: Database connected
+2025-02-25 10:50:12 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:50:13 [[32MINFO[39M]: Database connected
+2025-02-25 10:51:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:51:52 [[32MINFO[39M]: Database connected
+2025-02-25 10:52:29 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:52:29 [[32MINFO[39M]: Database connected
+2025-02-25 10:52:31 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:52:59 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:52:59 [[32MINFO[39M]: Database connected
+2025-02-25 10:53:37 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:53:37 [[32MINFO[39M]: Database connected
+2025-02-25 10:54:14 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:54:14 [[32MINFO[39M]: Database connected
+2025-02-25 10:54:21 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:54:22 [[32MINFO[39M]: Database connected
+2025-02-25 10:54:23 [[32MINFO[39M]: [API Request] GET /api/books/4 | Body: {"id":4} | Query: {} | Params: {"id":4}
+2025-02-25 10:54:37 [[31MERROR[39M]: Bad request
+2025-02-25 10:54:39 [[31MERROR[39M]: Bad request
+2025-02-25 10:54:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:54:52 [[32MINFO[39M]: Database connected
+2025-02-25 10:54:56 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:54:57 [[32MINFO[39M]: Database connected
+2025-02-25 10:55:03 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:55:03 [[32MINFO[39M]: Database connected
+2025-02-25 10:55:06 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:07 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:10 [[31MERROR[39M]: Bad request
+2025-02-25 10:55:41 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:55:41 [[32MINFO[39M]: Database connected
+2025-02-25 10:55:43 [[31MERROR[39M]: Bad request
+2025-02-25 10:56:03 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:56:04 [[32MINFO[39M]: Database connected
+2025-02-25 10:56:05 [[31MERROR[39M]: Bad request
+2025-02-25 10:56:57 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:56:58 [[32MINFO[39M]: Database connected
+2025-02-25 10:56:59 [[31MERROR[39M]: Bad request
+2025-02-25 10:59:07 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 10:59:08 [[32MINFO[39M]: Database connected
+2025-02-25 10:59:09 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:01:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:01:04 [[32MINFO[39M]: Database connected
+2025-02-25 11:01:16 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:01:16 [[32MINFO[39M]: Database connected
+2025-02-25 11:01:37 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:01:37 [[32MINFO[39M]: Database connected
+2025-02-25 11:01:38 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:02:03 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:03 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:07 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:08 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:13 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:13 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:18 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:19 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:27 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:27 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:43 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:47 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:47 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:53 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:02:53 [[32MINFO[39M]: Database connected
+2025-02-25 11:02:55 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:02:56 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:07:33 [[31MERROR[39M]: "book" alias was not found. Maybe you forgot to join it?
+2025-02-25 11:08:15 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:08:15 [[32MINFO[39M]: Database connected
+2025-02-25 11:09:59 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:09:59 [[32MINFO[39M]: Database connected
+2025-02-25 11:10:09 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:10:09 [[32MINFO[39M]: Database connected
+2025-02-25 11:10:26 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:10:26 [[32MINFO[39M]: Database connected
+2025-02-25 11:10:33 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:10:34 [[32MINFO[39M]: Database connected
+2025-02-25 11:11:06 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:11:06 [[32MINFO[39M]: Database connected
+2025-02-25 11:11:19 [[31MERROR[39M]: Unknown column 'genre' in 'field list'
+2025-02-25 11:11:34 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:11:35 [[32MINFO[39M]: Database connected
+2025-02-25 11:11:40 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:11:42 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:11:57 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:11:57 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:13:20 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:13:20 [[32MINFO[39M]: Database connected
+2025-02-25 11:13:21 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:13:30 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:13:31 [[32MINFO[39M]: Database connected
+2025-02-25 11:13:50 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:13:50 [[32MINFO[39M]: Database connected
+2025-02-25 11:14:05 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:14:05 [[32MINFO[39M]: Database connected
+2025-02-25 11:14:06 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:14:34 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:14:34 [[32MINFO[39M]: Database connected
+2025-02-25 11:14:38 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:15:07 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:15:07 [[32MINFO[39M]: Database connected
+2025-02-25 11:16:58 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:16:58 [[32MINFO[39M]: Database connected
+2025-02-25 11:17:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:17:04 [[32MINFO[39M]: Database connected
+2025-02-25 11:23:28 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:23:28 [[32MINFO[39M]: Database connected
+2025-02-25 11:24:13 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:24:14 [[32MINFO[39M]: Database connected
+2025-02-25 11:24:42 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:24:43 [[32MINFO[39M]: Database connected
+2025-02-25 11:26:15 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:26:15 [[32MINFO[39M]: Database connected
+2025-02-25 11:26:55 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:26:56 [[32MINFO[39M]: Database connected
+2025-02-25 11:27:14 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:27:14 [[32MINFO[39M]: Database connected
+2025-02-25 11:27:29 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:27:29 [[32MINFO[39M]: Database connected
+2025-02-25 11:40:23 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:40:24 [[32MINFO[39M]: Database connected
+2025-02-25 11:40:25 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:40:59 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:40:59 [[32MINFO[39M]: Database connected
+2025-02-25 11:41:00 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:41:13 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:41:14 [[32MINFO[39M]: Database connected
+2025-02-25 11:41:14 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 11:41:37 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:41:38 [[32MINFO[39M]: Database connected
+2025-02-25 11:42:02 [[32MINFO[39M]: [API Request] DELETE /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 11:42:38 [[31MERROR[39M]: Bad request
+2025-02-25 11:42:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:43:04 [[32MINFO[39M]: Database connected
+2025-02-25 11:43:05 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:22 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:43:23 [[32MINFO[39M]: Database connected
+2025-02-25 11:43:40 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:43:40 [[32MINFO[39M]: Database connected
+2025-02-25 11:43:41 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:50 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:43:51 [[32MINFO[39M]: Database connected
+2025-02-25 11:43:55 [[31MERROR[39M]: Bad request
+2025-02-25 11:43:57 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:08 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:44:09 [[32MINFO[39M]: Database connected
+2025-02-25 11:44:09 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:11 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:26 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:44:27 [[32MINFO[39M]: Database connected
+2025-02-25 11:44:29 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:30 [[31MERROR[39M]: Bad request
+2025-02-25 11:44:55 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:44:55 [[32MINFO[39M]: Database connected
+2025-02-25 11:44:57 [[31MERROR[39M]: Bad request
+2025-02-25 11:45:32 [[32MINFO[39M]: [API Request] PUT /api/books/2 | Body: {"title":"test","description":"test","publisher":"test","publishedDate":"2025-02-25","isbn":"string","author":"string","language":"string","pageCount":255,"genreIds":[3,4],"id":2} | Query: {} | Params: {"id":2}
+2025-02-25 11:45:44 [[31MERROR[39M]: Bad request
+2025-02-25 11:46:21 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:46:22 [[32MINFO[39M]: Database connected
+2025-02-25 11:46:33 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:46:34 [[32MINFO[39M]: Database connected
+2025-02-25 11:46:41 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:46:41 [[32MINFO[39M]: Database connected
+2025-02-25 11:46:49 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:46:49 [[32MINFO[39M]: Database connected
+2025-02-25 11:47:47 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:47:47 [[31MERROR[39M]: Bad request
+2025-02-25 11:47:47 [[32MINFO[39M]: Database connected
+2025-02-25 11:47:50 [[31MERROR[39M]: Bad request
+2025-02-25 11:47:51 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:48:05 [[32MINFO[39M]: Database connected
+2025-02-25 11:48:08 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:25 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:48:25 [[32MINFO[39M]: Database connected
+2025-02-25 11:48:37 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:38 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:40 [[31MERROR[39M]: Bad request
+2025-02-25 11:48:58 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:48:58 [[32MINFO[39M]: Database connected
+2025-02-25 11:49:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:49:04 [[32MINFO[39M]: Database connected
+2025-02-25 11:49:06 [[31MERROR[39M]: Resource not found
+2025-02-25 11:49:08 [[31MERROR[39M]: Resource not found
+2025-02-25 11:50:39 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:50:39 [[32MINFO[39M]: Database connected
+2025-02-25 11:50:41 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:42 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:43 [[31MERROR[39M]: Bad request
+2025-02-25 11:50:43 [[31MERROR[39M]: Bad request
+2025-02-25 11:52:42 [[31MERROR[39M]: Bad request
+2025-02-25 11:53:49 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:53:49 [[32MINFO[39M]: Database connected
+2025-02-25 11:53:51 [[31MERROR[39M]: Bad request
+2025-02-25 11:53:58 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:53:58 [[32MINFO[39M]: Database connected
+2025-02-25 11:54:18 [[32MINFO[39M]: [API Request] POST /api/books | Body: {"title":"string","description":"string","publisher":"string","publishedDate":"2025-02-25","isbn":"string","author":"string","language":"string","pageCount":300,"genreIds":[2]} | Query: {} | Params: {}
+2025-02-25 11:54:24 [[32MINFO[39M]: [API Request] GET /api/books/11 | Body: {"id":11} | Query: {} | Params: {"id":11}
+2025-02-25 11:54:30 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 11:54:30 [[32MINFO[39M]: Database connected
+2025-02-25 15:18:07 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:18:08 [[32MINFO[39M]: Database connected
+2025-02-25 15:18:30 [[32MINFO[39M]: [API Request] GET /api/books/3 | Body: {"id":3} | Query: {} | Params: {"id":3}
+2025-02-25 15:18:40 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:19:08 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:19:08 [[32MINFO[39M]: Database connected
+2025-02-25 15:19:18 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:19:28 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:19:40 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:19:40 [[32MINFO[39M]: Database connected
+2025-02-25 15:19:46 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:19:59 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:19:59 [[32MINFO[39M]: Database connected
+2025-02-25 15:20:01 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:20:47 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:20:50 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:20:50 [[32MINFO[39M]: Database connected
+2025-02-25 15:21:49 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:21:49 [[32MINFO[39M]: Database connected
+2025-02-25 15:21:51 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:23:13 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:23:13 [[32MINFO[39M]: Database connected
+2025-02-25 15:23:34 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:23:34 [[32MINFO[39M]: Database connected
+2025-02-25 15:23:40 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:24:09 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:24:09 [[32MINFO[39M]: Database connected
+2025-02-25 15:24:13 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:24:14 [[32MINFO[39M]: Database connected
+2025-02-25 15:24:19 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:24:20 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:26:21 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:26:22 [[32MINFO[39M]: Database connected
+2025-02-25 15:28:01 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:28:01 [[32MINFO[39M]: Database connected
+2025-02-25 15:28:08 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:28:09 [[32MINFO[39M]: Database connected
+2025-02-25 15:28:47 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:28:48 [[32MINFO[39M]: Database connected
+2025-02-25 15:28:50 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:29:17 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:30:20 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:30:21 [[32MINFO[39M]: Database connected
+2025-02-25 15:30:27 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:30:27 [[32MINFO[39M]: Database connected
+2025-02-25 15:30:28 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 15:30:33 [[32MINFO[39M]: [API Request] GET /api/books?title=aaa | Body: {} | Query: {"limit":10,"title":"aaa"} | Params: {}
+2025-02-25 15:30:46 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:30:46 [[32MINFO[39M]: Database connected
+2025-02-25 15:30:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:30:52 [[32MINFO[39M]: Database connected
+2025-02-25 15:30:52 [[32MINFO[39M]: [API Request] GET /api/books?title=aaa | Body: {} | Query: {"limit":10,"title":"aaa"} | Params: {}
+2025-02-25 15:31:06 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:31:06 [[32MINFO[39M]: Database connected
+2025-02-25 15:31:06 [[32MINFO[39M]: [API Request] GET /api/books?title=aaa | Body: {} | Query: {"limit":10,"title":"aaa"} | Params: {}
+2025-02-25 15:33:53 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:33:54 [[32MINFO[39M]: Database connected
+2025-02-25 15:33:57 [[32MINFO[39M]: [API Request] GET /api/books?title=aaa | Body: {} | Query: {"limit":10,"title":"aaa"} | Params: {}
+2025-02-25 15:37:59 [[32MINFO[39M]: [API Request] GET /api/books?title=aaa&author=aa&language=aaa&lastId=5&limit=5 | Body: {} | Query: {"limit":5,"title":"aaa","author":"aa","language":"aaa","lastId":5} | Params: {}
+2025-02-25 15:39:00 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:01 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:08 [[31MERROR[39M]: Bad request
+2025-02-25 15:39:18 [[31MERROR[39M]: Bad request
+2025-02-25 15:40:27 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:40:27 [[32MINFO[39M]: Database connected
+2025-02-25 15:40:28 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:16 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:47:17 [[32MINFO[39M]: Database connected
+2025-02-25 15:47:27 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:31 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:31 [[31MERROR[39M]: Bad request
+2025-02-25 15:47:34 [[31MERROR[39M]: Bad request
+2025-02-25 15:48:32 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:48:32 [[32MINFO[39M]: Database connected
+2025-02-25 15:48:38 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:48:38 [[32MINFO[39M]: Database connected
+2025-02-25 15:48:39 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:49:38 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:49:39 [[32MINFO[39M]: Database connected
+2025-02-25 15:49:41 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:51:22 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:51:23 [[32MINFO[39M]: Database connected
+2025-02-25 15:51:32 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:53:07 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:53:07 [[32MINFO[39M]: Database connected
+2025-02-25 15:53:08 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 15:54:26 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:54:26 [[32MINFO[39M]: Database connected
+2025-02-25 15:54:31 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:54:31 [[32MINFO[39M]: Database connected
+2025-02-25 15:54:35 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:54:35 [[32MINFO[39M]: Database connected
+2025-02-25 15:55:08 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:55:08 [[32MINFO[39M]: Database connected
+2025-02-25 15:56:34 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 15:56:34 [[32MINFO[39M]: Database connected
+2025-02-25 15:56:40 [[31MERROR[39M]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ILIKE '%aaa%' AND `tt_Book`.`strAuthor` ILIKE '%aa%' AND `tt_Book`.`strLanguage`' at line 1
+2025-02-25 16:00:17 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:00:17 [[32MINFO[39M]: Database connected
+2025-02-25 16:00:21 [[31MERROR[39M]: Unknown column 'genre.id' in 'where clause'
+2025-02-25 16:00:48 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:00:48 [[32MINFO[39M]: Database connected
+2025-02-25 16:01:01 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:01:01 [[32MINFO[39M]: Database connected
+2025-02-25 16:02:04 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:02:04 [[32MINFO[39M]: Database connected
+2025-02-25 16:02:10 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:02:10 [[32MINFO[39M]: Database connected
+2025-02-25 16:04:23 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:04:23 [[32MINFO[39M]: Database connected
+2025-02-25 16:04:43 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:04:43 [[32MINFO[39M]: Database connected
+2025-02-25 16:05:55 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:05:55 [[32MINFO[39M]: Database connected
+2025-02-25 16:06:01 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:06:01 [[32MINFO[39M]: Database connected
+2025-02-25 16:06:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:06:53 [[32MINFO[39M]: Database connected
+2025-02-25 16:07:08 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:07:08 [[32MINFO[39M]: Database connected
+2025-02-25 16:07:12 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:07:12 [[32MINFO[39M]: Database connected
+2025-02-25 16:07:42 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:07:43 [[32MINFO[39M]: Database connected
+2025-02-25 16:07:52 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:07:52 [[32MINFO[39M]: Database connected
+2025-02-25 16:08:24 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:08:24 [[32MINFO[39M]: Database connected
+2025-02-25 16:08:31 [[32MINFO[39M]: [API Request] GET /api/books?genreIds=2&title=aaa&author=aa&language=aaa&lastId=5&limit=5 | Body: {} | Query: {"limit":5,"genreIds":[2],"title":"aaa","author":"aa","language":"aaa","lastId":5} | Params: {}
+2025-02-25 16:08:43 [[32MINFO[39M]: [API Request] GET /api/books?genreIds=2&title=string | Body: {} | Query: {"limit":10,"genreIds":[2],"title":"string"} | Params: {}
+2025-02-25 16:08:51 [[32MINFO[39M]: [API Request] GET /api/books?title=string | Body: {} | Query: {"limit":10,"title":"string"} | Params: {}
+2025-02-25 16:08:55 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 16:08:55 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 16:09:05 [[32MINFO[39M]: [API Request] GET /api/books?title=test | Body: {} | Query: {"limit":10,"title":"test"} | Params: {}
+2025-02-25 16:09:20 [[32MINFO[39M]: [API Request] GET /api/books?genreIds=3&title=test | Body: {} | Query: {"limit":10,"genreIds":[3],"title":"test"} | Params: {}
+2025-02-25 16:09:29 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 16:09:29 [[32MINFO[39M]: Database connected
+2025-02-25 19:15:03 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 19:15:03 [[32MINFO[39M]: Database connected
+2025-02-25 19:15:45 [[32MINFO[39M]: [API Request] GET /api/books/1 | Body: {"id":1} | Query: {} | Params: {"id":1}
+2025-02-25 19:15:57 [[32MINFO[39M]: [API Request] GET /api/books | Body: {} | Query: {"limit":10} | Params: {}
+2025-02-25 19:16:02 [[32MINFO[39M]: [API Request] GET /api/books?title=a | Body: {} | Query: {"limit":10,"title":"a"} | Params: {}
+2025-02-25 19:17:25 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 19:17:26 [[32MINFO[39M]: Database connected
+2025-02-25 19:18:09 [[32MINFO[39M]: [API Request] GET /api/books?title=bland | Body: {} | Query: {"limit":10,"title":"bland"} | Params: {}
+2025-02-25 19:18:39 [[32MINFO[39M]: Server running on http://localhost:3003
+2025-02-25 19:18:40 [[32MINFO[39M]: Database connected
