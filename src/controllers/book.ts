@@ -2,8 +2,6 @@ import { NextFunction, Request, Response } from "express";
 import { bookService } from "../services/book";
 import createResponse from "../common/utils/create-response";
 import { HttpStatusCode } from "../common/constants";
-import { plainToInstance } from "class-transformer";
-import { FindBooksDto } from "../common/validations/find-books";
 
 export const createBook = async (
   req: Request,

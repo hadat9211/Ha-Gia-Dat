@@ -13,7 +13,6 @@ import { FindBooksResponseDto } from "../infrastructure/interfaces/book/response
 import { FindBooksDto } from "../common/validations/find-books";
 import { BadRequestError, ConflictError } from "../common/utils/base-error";
 import { withTransaction } from "../common/utils/transaction";
-import { intersection } from "../common/utils/intersection";
 
 class BookService {
   private readonly _bookRepository = new BookRepository();
